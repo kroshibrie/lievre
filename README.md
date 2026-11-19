@@ -1,6 +1,6 @@
-# the liévre project
+# the lièvre project
 
-the **liévre project** is a language and compiler set made for teaching and dissecting the inner workings of a compiler, consisting of:
+the **lièvre project** is a language and compiler set made for teaching and dissecting the inner workings of a compiler, consisting of:
 
 - **liev**, a statically & weakly typed programming language 
 - **evre**, liev's companion compiler
@@ -22,7 +22,7 @@ of course, both serve their purpose very well. those who want to have a tiny gra
 
 on the other hand, those who want to make the next C compiler have all of the books in the world avaliable detailing every single internal choice, minute detail, and moment the programmer sneezed when writing the code
 
-my *(and **liévre**'s)* goal is to provide a bridge for the people who dont know much about compilers, and want to know much about compilers without having to sit through the slog that is reading a book filled to the brim with jargon and footnotes *(ironic considering the namesake)*
+my *(and **lièvre**'s)* goal is to provide a bridge for the people who dont know much about compilers, and want to know much about compilers without having to sit through the slog that is reading a book filled to the brim with jargon and footnotes
 
 ## ai usage
 **no ai is used in writing the code for this project.**  
@@ -50,7 +50,7 @@ additionally, **liev**'s philosophy and standard library are based on:
 ## multiple parsers?
 yes there's multiple parsers
 
-the goal of the **liévre project** is to show how all parts of a compiler work, and part of that "all" includes every *(reasonable)* alternative you can choose from and implement
+the goal of the **lièvre project** is to show how all parts of a compiler work, and part of that "all" includes every *(reasonable)* alternative you can choose from and implement
 
 this includes both of the "main" alternatives for a parser, complete with exploring their benefits, downsides, and reasons why you would implement them over the other depending on your language
 
