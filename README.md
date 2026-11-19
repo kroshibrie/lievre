@@ -15,7 +15,7 @@ as of right now, the project is still under construction:
 - ❌ code generation
 - ❌ standard library
 
-## liévre's goal
+## lièvre's goal
 i've noticed in my endless scowering of the interwebs that there exists a big gap in knowledge between resources that explain compilers in a "dumbed down" format, and actual battle-tested manuscripts of pages upon pages of text that a beginner in the compiler area can't be expected to understand
 
 of course, both serve their purpose very well. those who want to have a tiny grasp on how the compiler reads code and spits out an executable are satisfied with a superficial explanation of what a lexer and parser are, and how rudimentary code generation works
